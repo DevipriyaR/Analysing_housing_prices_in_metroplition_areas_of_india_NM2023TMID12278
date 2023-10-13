@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DevipriyaR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+DASHBOARD PUBLIC LINK : https://public.tableau.com/views/Analysicsofhousemarketing/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link
 
-<!---
-DevipriyaR/DevipriyaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+STORY PUBLIC LINK : https://public.tableau.com/views/StoryAnalysisofhousemarketing/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+VIDEO DEMONSTRATION LINK : https://drive.google.com/file/d/1HJTQ69-P3VbfucbvIqb4MfdnW6pmorpE/view?usp=drivesdk
